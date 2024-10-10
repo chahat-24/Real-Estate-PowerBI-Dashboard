@@ -6,4 +6,4 @@ For detailed explanations of the data cleaning, measures, and features used in t
 refer to the [Supporting File](https://github.com/chahat-24/Real-Estate-PowerBI-Dashboard/blob/main/Real%20Estate%20Power%20BI%20Dashboard.docx).
 
 ### Screenshot of Dashboard
-refer to the [Screenshot].(https://1drv.ms/i/c/ef186088d4c19d26/ETtBR-gJXF5MsvTwxkw_MgMBQ2NsYa20wvMXWg-USpNCPw?e=9ITJ9I).
+refer to the [Screenshot](https://1drv.ms/i/c/ef186088d4c19d26/ETtBR-gJXF5MsvTwxkw_MgMBQ2NsYa20wvMXWg-USpNCPw?e=9ITJ9I).
